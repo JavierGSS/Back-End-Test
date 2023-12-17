@@ -90,97 +90,6 @@
       "latitude": "-5.9658",
       "longitude": "-126.4864",
       "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/mhaligowski/128.jpg"
-    },
-    {
-      "name": "Jeff Grant",
-      "dob": "1945-1-27",
-      "email": "Jeff.Grant69@hotmail.com",
-      "username": "Jeff.Grant98",
-      "password": "CsJiUtkZOBDhlE_",
-      "phone": "1-357-958-5754 x811",
-      "streetaddress": "398 Boyle Bridge",
-      "citystatezip": "Edmundstad, UT 97395-5858",
-      "latitude": "-55.3960",
-      "longitude": "-72.5165",
-      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/dss49/128.jpg"
-    },
-    {
-      "name": "Florine Abernathy",
-      "dob": "1954-2-10",
-      "email": "Florine.Abernathy28@hotmail.com",
-      "username": "Florine_Abernathy",
-      "password": "RG_yFEAUxbvk2JX",
-      "phone": "373.878.2523",
-      "streetaddress": "10696 Lela Islands",
-      "citystatezip": "Marinamouth, KY 89024",
-      "latitude": "-39.0775",
-      "longitude": "39.3157",
-      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/mikaeljorhult/128.jpg"
-    },
-    {
-      "name": "Dr. Karli Gutmann",
-      "dob": "1963-5-13",
-      "email": "Karli.Gutmann@yahoo.com",
-      "username": "Karli_Gutmann57",
-      "password": "dB_OgmdJ5IYVahV",
-      "phone": "1-670-609-3754 x94927",
-      "streetaddress": "10620 Carlos Orchard",
-      "citystatezip": "East Malindatown, DE 53450",
-      "latitude": "-15.3943",
-      "longitude": "94.4985",
-      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/osvaldas/128.jpg"
-    },
-    {
-      "name": "Verla Lang",
-      "dob": "1948-5-8",
-      "email": "Verla.Lang11@gmail.com",
-      "username": "Verla.Lang",
-      "password": "ic6shJXI2xIjoXW",
-      "phone": "781-557-2865 x225",
-      "streetaddress": "69607 Hessel Mews",
-      "citystatezip": "South Billtown, GA 31684",
-      "latitude": "-9.0939",
-      "longitude": "8.2614",
-      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/alecarpentier/128.jpg"
-    },
-    {
-      "name": "Lorine O'Reilly",
-      "dob": "1949-4-5",
-      "email": "Lorine_OReilly@yahoo.com",
-      "username": "Lorine60",
-      "password": "goPJbI2VE9Ibufo",
-      "phone": "245-952-7008",
-      "streetaddress": "1335 Newell Route",
-      "citystatezip": "South Rowland, AZ 69752",
-      "latitude": "13.3403",
-      "longitude": "-119.2443",
-      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/marcoramires/128.jpg"
-    },
-    {
-      "name": "Mary Jenkins",
-      "dob": "1942-12-16",
-      "email": "Mary.Jenkins@yahoo.com",
-      "username": "Mary31",
-      "password": "hkHkX78BjInbwGc",
-      "phone": "973.890.1919 x70899",
-      "streetaddress": "973 Imani Brook",
-      "citystatezip": "Chazburgh, IN 19824",
-      "latitude": "72.6611",
-      "longitude": "-89.3808",
-      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/atariboy/128.jpg"
-    },
-    {
-      "name": "Martine Bergstrom",
-      "dob": "1948-6-19",
-      "email": "Martine_Bergstrom20@hotmail.com",
-      "username": "Martine.Bergstrom89",
-      "password": "ZgZbPHzbRWfRzbu",
-      "phone": "791-662-8366 x61774",
-      "streetaddress": "184 Rogelio Pass",
-      "citystatezip": "Tiaramouth, IA 97273-2868",
-      "latitude": "-2.5628",
-      "longitude": "-153.8294",
-      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/lebinoclard/128.jpg"
     }
   ],
   "companies": [
@@ -194,8 +103,18 @@
     {},
     {},
     {},
-    {},
-    {},
-    {}
+    {
+      "name": "Damage Inc.",
+      "email": "damageinc@dmginc.com",
+      "phone": "+123456789",
+      "avatar": "https://liquipedia.net/commons/images/thumb/7/7e/Damage_Inc_full_lightmode.png/600px-Damage_Inc_full_lightmode.png"
+    },
+    {
+      "name": "Damage Inc.",
+      "email": "damageinc@dmginc.com",
+      "phone": "+123456789",
+      "catchphrase": "Excellence in kitchen repairments",
+      "avatar": "https://liquipedia.net/commons/images/thumb/7/7e/Damage_Inc_full_lightmode.png/600px-Damage_Inc_full_lightmode.png"
+    }
   ]
 }
