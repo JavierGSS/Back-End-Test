@@ -181,6 +181,45 @@
       "latitude": "-5.0800",
       "longitude": "-106.0730",
       "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/digitalmaverick/128.jpg"
+    },
+    {
+      "name": "D'angelo Schulist",
+      "dob": "1951-11-7",
+      "email": "Dangelo.Schulist69@hotmail.com",
+      "username": "Dangelo.Schulist82",
+      "password": "yugbI25bHiBWGz7",
+      "phone": "657-761-4484",
+      "streetaddress": "95229 Aniya Drives",
+      "citystatezip": "Cordeliatown, TN 84615-1672",
+      "latitude": "-43.9118",
+      "longitude": "163.7584",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/konus/128.jpg"
+    },
+    {
+      "name": "Derrick Reinger",
+      "dob": "1950-8-3",
+      "email": "Derrick.Reinger27@yahoo.com",
+      "username": "Derrick.Reinger73",
+      "password": "U_3Y7nXRWkbgXM1",
+      "phone": "(551) 695-7544 x7481",
+      "streetaddress": "3403 Haylie Haven",
+      "citystatezip": "Sheastad, NY 28289",
+      "latitude": "40.0066",
+      "longitude": "100.9083",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/iamsteffen/128.jpg"
+    },
+    {
+      "name": "Deborah Stokes",
+      "dob": "1969-8-23",
+      "email": "Deborah_Stokes@yahoo.com",
+      "username": "Deborah_Stokes44",
+      "password": "xbvi_KsfjOAE9Aq",
+      "phone": "1-479-763-8496 x277",
+      "streetaddress": "16069 Aleen Rapids",
+      "citystatezip": "Wolfchester, NY 32751",
+      "latitude": "-72.7712",
+      "longitude": "-129.0498",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/magugzbrand2d/128.jpg"
     }
   ],
   "companies": [
@@ -237,6 +276,12 @@
     {},
     {},
     {},
-    {}
+    {},
+    {
+      "name": "Pfannerstill - Hessel",
+      "email": "Danika_Goldner89@yahoo.com",
+      "phone": "(933) 931-3856 x2157",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/Elt_n/128.jpg"
+    }
   ]
 }
