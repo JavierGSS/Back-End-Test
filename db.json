@@ -90,6 +90,97 @@
       "latitude": "-5.9658",
       "longitude": "-126.4864",
       "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/mhaligowski/128.jpg"
+    },
+    {
+      "name": "Willa Fadel",
+      "dob": "1957-8-22",
+      "email": "Willa95@hotmail.com",
+      "username": "Willa19",
+      "password": "iKg2wDsLnNp9TRF",
+      "phone": "978.927.3697",
+      "streetaddress": "19697 Kohler Gateway",
+      "citystatezip": "North Phoebeberg, NC 42301",
+      "latitude": "-88.0617",
+      "longitude": "-65.4525",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/cggaurav/128.jpg"
+    },
+    {
+      "name": "General Quitzon",
+      "dob": "1950-1-15",
+      "email": "General.Quitzon33@gmail.com",
+      "username": "General_Quitzon71",
+      "password": "s4TO1dyJTYTorH8",
+      "phone": "1-796-341-8311 x070",
+      "streetaddress": "310 VonRueden Parkway",
+      "citystatezip": "West Vilmachester, VT 20105",
+      "latitude": "-12.0433",
+      "longitude": "81.5553",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/kucingbelang4/128.jpg"
+    },
+    {
+      "name": "Catherine Cummings",
+      "dob": "1989-9-25",
+      "email": "Catherine_Cummings@gmail.com",
+      "username": "Catherine.Cummings45",
+      "password": "DW4Zu7XhgBmWH3B",
+      "phone": "781.794.7562 x14026",
+      "streetaddress": "13389 Stokes Mission",
+      "citystatezip": "Nelleshire, NE 64967-9672",
+      "latitude": "84.5424",
+      "longitude": "-48.9297",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/ryanjohnson_me/128.jpg"
+    },
+    {
+      "name": "Dr. Antonia Hauck",
+      "dob": "1980-10-1",
+      "email": "Antonia_Hauck81@hotmail.com",
+      "username": "Antonia.Hauck",
+      "password": "Bm7JF6Qy1tHnBzG",
+      "phone": "296.947.0896 x0580",
+      "streetaddress": "697 Cruickshank Extension",
+      "citystatezip": "New Duanefort, SD 08970-6724",
+      "latitude": "54.2802",
+      "longitude": "-73.9520",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/jamiebrittain/128.jpg"
+    },
+    {
+      "name": "Ofelia Harvey",
+      "dob": "1977-6-28",
+      "email": "Ofelia.Harvey50@gmail.com",
+      "username": "Ofelia_Harvey0",
+      "password": "OmRp7fqc2PXdZCB",
+      "phone": "1-739-742-5196 x68300",
+      "streetaddress": "91350 Sheila Burg",
+      "citystatezip": "Yostfort, MO 15967-9905",
+      "latitude": "-37.8012",
+      "longitude": "33.6786",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/d00maz/128.jpg"
+    },
+    {
+      "name": "Gwen Nicolas PhD",
+      "dob": "1969-12-30",
+      "email": "Gwen_Nicolas81@gmail.com",
+      "username": "Gwen_Nicolas",
+      "password": "BYJytbHIC_X9UCy",
+      "phone": "1-865-766-0148 x81902",
+      "streetaddress": "5118 Blaze Station",
+      "citystatezip": "Lake Ilianafort, NV 93302-1910",
+      "latitude": "-8.4709",
+      "longitude": "1.2453",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/joshmedeski/128.jpg"
+    },
+    {
+      "name": "Dina Harber",
+      "dob": "1986-12-18",
+      "email": "Dina.Harber@yahoo.com",
+      "username": "Dina.Harber90",
+      "password": "a1AZKD20eNbJ4BT",
+      "phone": "(408) 762-3438 x5338",
+      "streetaddress": "7978 Patsy Roads",
+      "citystatezip": "North Aftonfurt, UT 49309-9383",
+      "latitude": "-5.0800",
+      "longitude": "-106.0730",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/digitalmaverick/128.jpg"
     }
   ],
   "companies": [
@@ -140,6 +231,12 @@
       "email": "Deion48@gmail.com",
       "phone": "338-328-6837 x01205",
       "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/ismail_biltagi/128.jpg"
-    }
+    },
+    {},
+    {},
+    {},
+    {},
+    {},
+    {}
   ]
 }
