@@ -19,11 +19,15 @@ app.use(bodyParser.json());
 app.use(express.static("public"));
 
 // init the data store
-db.defaults({ users: [] }).write();
+db.defaults({ users: [], companies: [] }).write();
 
 // return all users
 app.get("/data", function (req, res) {
   res.send(db.get("users").value());
+});
+
+app.get("/companies", (req, res) => {
+  res.send(db.get("companies").value());
 });
 
 // add user
@@ -46,6 +50,19 @@ app.post("/add", function (req, res) {
   res.send(db.get("users").value());
 });
 
+app.post("/addCompany", function (req, res) {
+  var company = {
+    name: req.body.name,
+    email: req.body.email,
+    phone: req.body.phone,
+    catchphrase: req.body.catchphrase,
+    avatar: req.body.avatar,
+  };
+  db.get("companies").push(company).write();
+  // console.log(db.get('users').value());
+  res.send(db.get("users").value());
+});
+
 // --------------------------
 //   for supertest testing
 //   comment out listener
@@ -53,9 +70,9 @@ app.post("/add", function (req, res) {
 
 // start server
 // -----------------------
-// app.listen(3000, function(){
-//     console.log('Running on port 3000!')
-// })
+// app.listen(3000, function () {
+//   console.log("Running on port 3000!");
+// });
 
 // export app for testing
 module.exports = app;
